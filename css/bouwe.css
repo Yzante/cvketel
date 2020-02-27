@@ -1,0 +1,11 @@
+#opslag{
+    margin-top: 80px;
+}
+#opslag>div h1{
+    text-align: center;
+} 
+#foto > img {
+    border: 2px solid #333;
+    width: 32%;
+    margin: 5px 5px 5px 5px;
+}

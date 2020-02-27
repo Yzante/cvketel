@@ -1,0 +1,43 @@
+﻿#sponsor {
+    margin-top: 100px;
+    color: #333;
+}
+#sponsortekst{
+    text-align: center;
+}
+#tekst {
+    margin-left: 2.5%;
+    width: 95%;
+    text-align: center;
+}
+#klusbedrijftekst {
+    width: 31%;
+    height:70px;
+    float: left;
+}
+#weijtmanstekst {
+    width: 31%;
+    height: 70px;
+    float: left;
+}
+#testtekst {
+    width: 31%;
+    height: 70px;
+    float: left;
+}
+#afbeelding {
+    margin-left: 2.5%;
+    width: 95%;
+}
+#klusbedrijfafbeelding {
+    width: 31%;
+    float: left;
+}
+#weijtmansafbeelding {
+    width: 31%;
+    float: left;
+}
+#testafbeelding {
+    width: 31%;
+    float: left;
+}

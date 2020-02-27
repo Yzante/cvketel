@@ -1,0 +1,20 @@
+﻿#socialmedia{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#socialmedia>h1{
+    font: 40px /1.5 Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#facebook {
+    height: 33%;
+    width: 33%;
+}
+#instagram {
+    height: 33%;
+    width: 33%;
+}
+#snapchat {
+    height: 33%;
+    width: 33%;
+}

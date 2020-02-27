@@ -1,0 +1,24 @@
+
+#informatie{
+    width: 80%;
+    height: 500px;
+    margin-left: 10%;
+    margin-top: 15%;
+    background: #666666 ;
+}
+#informatie>h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+    line-height: 20px;
+    margin-left: 10px
+}
+#informatie>p{
+    font-size: 15px;
+    margin-bottom: 20px;
+    line-height: 15px;
+}
+#informatie>h2{
+    font-size: 15px;
+    margin-bottom: 20px;
+    line-height: 15px;
+}
