@@ -18,4 +18,4 @@ require_once "../../../autoload.php";
  * See: https://www.mollie.com/dashboard/settings/profiles
  */
 $mollie = new MollieApiClient();
-$mollie->setApiKey("test_dHar4XY7LxsDOtmnkVtjNVWXLSlXsM");
+$mollie->setApiKey("test_5Szwupmc6kwyrfCvv23UHJjNyVMDFG");
