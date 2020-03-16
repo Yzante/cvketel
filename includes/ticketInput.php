@@ -44,7 +44,7 @@
                     Zaterdag
                 </td>
                 <td>
-                    <input type="checkbox" name="zaterdag">
+                    <input type="checkbox" name="zaterdag"> 25 euro
                 </td>
             </tr>
             <tr>
@@ -52,7 +52,7 @@
                     zondag
                 </td>
                 <td>
-                    <input type="checkbox" name="zondag">
+                    <input type="checkbox" name="zondag"> 25 euro
                 </td>
             </tr>
             <tr>
@@ -60,7 +60,7 @@
                     maandag
                 </td>
                 <td>
-                    <input type="checkbox" name="maandag">
+                    <input type="checkbox" name="maandag"> 25 euro
                 </td>
             </tr>
             <tr>
@@ -68,7 +68,7 @@
                     dinsdag
                 </td>
                 <td>
-                    <input type="checkbox" name="dinsdag">
+                    <input type="checkbox" name="dinsdag"> 25 euro
                 </td>
             </tr>
         </table>
