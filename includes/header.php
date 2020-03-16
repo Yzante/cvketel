@@ -31,7 +31,7 @@
                     <button class="grt-mobile-button"><span class="line1"></span><span class="line2"></span><span class="line3"></span></button>
                     <ul class="grt-menu">
                         <li><a href="index">Home</a></li>
-                        <li><a href="tickets">inschrijven</a></li>
+                        <li><a href="tickets">tickets</a></li>
                         <li><a href="tijdlijn">tijdlijn</a></li>
                         <li><a href="sponsors">sponsors</a></li>
                     </ul>
