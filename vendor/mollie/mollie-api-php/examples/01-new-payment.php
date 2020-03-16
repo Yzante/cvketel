@@ -37,7 +37,7 @@ try {
     $payment = $mollie->payments->create([
         "amount" => [
             "currency" => "EUR",
-            "value" => "10.00"
+            "value" => $price
         ],
         "description" => "Order #{$orderId}",
         "redirectUrl" => "{$protocol}://{$hostname}{$path}/03-return-page.php?order_id={$orderId}",
