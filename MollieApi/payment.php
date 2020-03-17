@@ -63,8 +63,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $_inputCorrect = false;
     }
     if($_inputCorrect == true){
-        include 'initialize.php';
+
     }
+    include 'initialize.php';
 }
 function data_trim($data) {
     $data = trim($data);
