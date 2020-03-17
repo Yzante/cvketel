@@ -1,4 +1,4 @@
-<form id="T_input" method="post" action="../vendor/mollie/mollie-api-php/examples/01-new-payment.php" >
+<form id="T_input" method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" >
     <style>
         .error {color: #FF0000;}
     </style>

@@ -40,7 +40,7 @@ $path = dirname(isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : $_SER
 $payment = $mollie->payments->create([
     "amount" => [
         "currency" => "EUR",
-        "value" => "10.00"
+        "value" => $price . ".00"
     ],
     "description" => "Order #{$orderId}",
     "redirectUrl" => "{$protocol}://{$hostname}{$path}/03-return-page.php?order_id={$orderId}",

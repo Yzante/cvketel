@@ -17,7 +17,7 @@ include 'includes/header.php';
 <div id="informatie">
     <?php
     include 'includes/ticketInput.php';
-    include 'includes/ticketOutput.php';
+    include 'MollieApi/payment.php';
     ?>
 </div>
 
