@@ -49,3 +49,4 @@ $payment = $mollie->payments->create([
         "order_id" => $orderId,
     ],
 ]);
+header("Location: " . $payment->getCheckoutUrl(), true, 303);
